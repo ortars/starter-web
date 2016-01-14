@@ -20,4 +20,4 @@ Please fork this repository and then issue Pulle Requests for review
 
 ### Copyright
 
-2016
+2016 All right reserverd.
